@@ -12,7 +12,7 @@
 @media screen and (min-width: 990px) {
 body {
   font-family: arial;
-    background: url(imgs/FondoLogin.jpg) no-repeat center center fixed;
+    background: url(FondoLogin.jpg) no-repeat center center fixed;
     background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
